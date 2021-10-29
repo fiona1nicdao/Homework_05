@@ -12,8 +12,7 @@
 - when I refresh the page the saved events persist
 
 ## Link 
-link to [Work Day Scheduler Webpage](add https:// URL link)
-<!-- add URL link! -->
+link to [Work Day Scheduler Webpage](https://fiona1nicdao.github.io/Homework_05/)
 
 ## Preview 
 ![WorkDayScheduler](./work-schedule-page.png)
