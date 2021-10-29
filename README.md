@@ -16,5 +16,4 @@ link to [Work Day Scheduler Webpage](add https:// URL link)
 <!-- add URL link! -->
 
 ## Preview 
-![WorkDayScheduler](add pagepathway to image/ screenshot)
-<!-- add screenshot -->
+![WorkDayScheduler](./images/work-schedule-page.png)
