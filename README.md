@@ -14,7 +14,7 @@
 - when I refresh the page the saved events persist
 
 ## Link 
-link to [Work Day Scheduler Webpage](https://fiona1nicdao.github.io/Homework_05/)
+link to [Work Day Scheduler Webpage](https://fiona1nicdao.github.io/day-scheduler/)
 
 ## Licence 
  This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
