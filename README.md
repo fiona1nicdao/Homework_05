@@ -1,5 +1,7 @@
-# Homework_05
-## 05 Third-Party APIs: Work Day Scheduler 
+# Third-Party APIs: Work Day Scheduler 
+# Week 5: Third-Party APIs
+
+![License: MIT](<https://img.shields.io/badge/License-MIT-yellow.svg>)
 
 ## Objectives 
 - in the given code for a daily planner create a shedule planner 
@@ -14,5 +16,11 @@
 ## Link 
 link to [Work Day Scheduler Webpage](https://fiona1nicdao.github.io/Homework_05/)
 
+## Licence 
+ This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
 ## Preview 
 ![WorkDayScheduler](./work-schedule-page.png)
+
+# Questions 
+Please contact me direclty via the github [fiona1nicdao](<https://github.com/fiona1nicdao>) 
